@@ -7,6 +7,8 @@ public class HealthScript : MonoBehaviour {
 	/// Total hitpoints
 	/// </summary>
 	public int hp = 1;
+
+	//test
 	
 	/// <summary>
 	/// 0 = player  
