@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{3A28FA3B-5880-C531-E658-54567FD64876}") = "bandgame", "Assembly-CSharp.csproj", "{784C62AE-47DF-23D0-A00C-5A297F2E8D3E}"
+Project("{3A28FA3B-5880-C531-E658-54567FD64876}") = "bandgame", "Assembly-CSharp-vs.csproj", "{784C62AE-47DF-23D0-A00C-5A297F2E8D3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,7 +17,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-		GlobalSection(MonoDevelopProperties) = preSolution
+			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
